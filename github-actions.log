@@ -1,0 +1,5 @@
+2023-07-12 20:44:38 [,] - INFO Starting GithubActionsApplicationTests using Java 17.0.7 with PID 10685 (started by epedegu in /home/epedegu/Development/sample_actions/sample-actions)
+2023-07-12 20:44:38 [,] - INFO No active profile set, falling back to 1 default profile: "default"
+2023-07-12 20:44:38 [,] - INFO Started GithubActionsApplicationTests in 0.831 seconds (process running for 1.722)
+2023-07-12 20:44:38 [,] - INFO Hello World : People
+2023-07-12 20:44:38 [,] - INFO Hello World

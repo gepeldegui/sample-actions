@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.agmet.samples.githubactions.GithubActionsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.059 s - in org.agmet.samples.githubactions.GithubActionsApplicationTests
